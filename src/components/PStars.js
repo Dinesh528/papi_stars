@@ -74,6 +74,7 @@ function PStars() {
                     style={{ textDecoration: "none" }}
                     className="d-grid gap-2"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="btn btn-outline-primary">Go to website</button>
                   </a>
